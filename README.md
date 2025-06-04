@@ -7,7 +7,6 @@
 - 🌐 &nbsp; Working with React, JavaScript, HTML/CSS, and experimenting with Next.js and Three.js
 - 📱 &nbsp; Still exploring mobile development with Flutter from earlier experience
 - 🧠 &nbsp; Always learning — currently deepening skills in React, Next.js, and creative 3D web using Three.js
-- 🌍 &nbsp; Check out my portfolio: [nathiportfolio.netlify.app](https://nathiportfolio.netlify.app/)
 - 🤝 &nbsp; Collaborative mindset with a strong foundation in Git and team workflows
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -52,7 +51,6 @@
 <a href="https://www.linkedin.com/in/nkosinathisilima/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nkosinathisilima-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/SkylaarN/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SkylaarN-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nkosinathisilima@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nkosinathisilima@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://nathiportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-nathiportfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 
 ⭐️ From [SkylaarN](https://github.com/SkylaarN)
