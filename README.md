@@ -2,25 +2,26 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🚀 &nbsp; Passionate about building full-stack applications that make a real-world impact.
-- 🎓 &nbsp; Software Engineering student at [WeThinkCode_](https://www.wethinkcode.co.za/).
-- 💼 &nbsp; Currently working on mobile and web apps using modern frameworks and cloud tools.
-- 🌱 &nbsp; Exploring advanced concepts in Flutter, Dart, Next.js, Firebase, and scalable backend APIs.
-- ✍️ &nbsp; I enjoy writing clean code, solving problems, and contributing to open-source when I can.
+- 🎓 &nbsp; Software Development graduate from [WeThinkCode_](https://www.wethinkcode.co.za/)
+- 💻 &nbsp; Frontend-focused developer passionate about building engaging and performant web interfaces
+- 🌐 &nbsp; Working with React, JavaScript, HTML/CSS, and experimenting with Next.js and Three.js
+- 📱 &nbsp; Still exploring mobile development with Flutter from earlier experience
+- 🧠 &nbsp; Always learning — currently deepening skills in React, Next.js, and creative 3D web using Three.js
+- 🌍 &nbsp; Check out my portfolio: [nathiportfolio.netlify.app](https://nathiportfolio.netlify.app/)
+- 🤝 &nbsp; Collaborative mindset with a strong foundation in Git and team workflows
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+  ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js&logoColor=white)
 - 📱 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
 - ☁️ &nbsp;
@@ -48,9 +49,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nkosinathisilima-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/YOUR_INSTA/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SkylaarN-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-nkosinathisilima@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/nkosinathisilima/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nkosinathisilima-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/SkylaarN/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SkylaarN-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:nkosinathisilima@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nkosinathisilima@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://nathiportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-nathiportfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 
-⭐️ From SkylaarN(https://github.com/SkylaarN)
+⭐️ From [SkylaarN](https://github.com/SkylaarN)
